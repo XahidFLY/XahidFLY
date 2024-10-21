@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning htm,css,js
 - 💞️ I’m not looking to collaborate on ...
-- 📫 How to reach me @flymiz@gmail.com
+- 📫 How to reach me flymiz@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i code in Acode
 
